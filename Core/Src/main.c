@@ -23,6 +23,7 @@
 
 #include "bdma.h"
 #include "dma.h"
+#include "fdcan.h"
 #include "usart.h"
 #include "gpio.h"
 
@@ -107,6 +108,7 @@ int main(void)
   MX_UART8_Init();
   MX_LPUART1_UART_Init();
   MX_UART7_Init();
+  MX_FDCAN1_Init();
   /* USER CODE BEGIN 2 */
   char message[] = "Hello World!\n";
   /* USER CODE END 2 */
@@ -154,7 +156,7 @@ void SystemClock_Config(void)
   RCC_OscInitStruct.PLL.PLLM = 5;
   RCC_OscInitStruct.PLL.PLLN = 192;
   RCC_OscInitStruct.PLL.PLLP = 2;
-  RCC_OscInitStruct.PLL.PLLQ = 2;
+  RCC_OscInitStruct.PLL.PLLQ = 8;
   RCC_OscInitStruct.PLL.PLLR = 2;
   RCC_OscInitStruct.PLL.PLLRGE = RCC_PLL1VCIRANGE_2;
   RCC_OscInitStruct.PLL.PLLVCOSEL = RCC_PLL1VCOWIDE;
