@@ -117,6 +117,7 @@ int main(void)
   {
     HAL_UART_Transmit(&huart1,(uint8_t*)message,strlen(message),100);
     HAL_Delay(1000);
+    //第二次提交
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
