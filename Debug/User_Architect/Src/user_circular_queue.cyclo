@@ -1,0 +1,10 @@
+../User_Architect/Src/user_circular_queue.c:15:6:Circular_Queue_Init	1
+../User_Architect/Src/user_circular_queue.c:27:16:Circular_Queue_Is_Empty	1
+../User_Architect/Src/user_circular_queue.c:36:16:Circular_Queue_Is_Full	1
+../User_Architect/Src/user_circular_queue.c:45:10:Circular_Queue_Get_Count	1
+../User_Architect/Src/user_circular_queue.c:54:10:Circular_Queue_Get_Free_Space	1
+../User_Architect/Src/user_circular_queue.c:63:6:Circular_Queue_Enqueue	2
+../User_Architect/Src/user_circular_queue.c:81:9:Circular_Queue_Dequeue	2
+../User_Architect/Src/user_circular_queue.c:98:9:Circular_Queue_Discard	2
+../User_Architect/Src/user_circular_queue.c:114:9:Circular_Queue_Peek	2
+../User_Architect/Src/user_circular_queue.c:128:6:Circular_Queue_Clear	1

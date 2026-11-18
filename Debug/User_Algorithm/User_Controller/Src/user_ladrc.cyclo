@@ -1,0 +1,6 @@
+../User_Algorithm/User_Controller/Src/user_ladrc.c:22:6:LADRC_Init	1
+../User_Algorithm/User_Controller/Src/user_ladrc.c:52:6:LADRC_Set_Target	1
+../User_Algorithm/User_Controller/Src/user_ladrc.c:64:7:LADRC_Calculate	3
+../User_Algorithm/User_Controller/Src/user_ladrc.c:94:7:LADRC_Get_Output	1
+../User_Algorithm/User_Controller/Src/user_ladrc.c:109:13:LESO_Calculate	1
+../User_Algorithm/User_Controller/Src/user_ladrc.c:130:14:LSEF_Calculate	1

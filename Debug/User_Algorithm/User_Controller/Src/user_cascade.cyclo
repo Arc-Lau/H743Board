@@ -1,0 +1,4 @@
+../User_Algorithm/User_Controller/Src/user_cascade.c:13:6:Cascade_Controller_Init	1
+../User_Algorithm/User_Controller/Src/user_cascade.c:39:6:Cascade_Controller_Set_Target	1
+../User_Algorithm/User_Controller/Src/user_cascade.c:53:7:Cascade_Controller_Calculate	1
+../User_Algorithm/User_Controller/Src/user_cascade.c:78:7:Cascade_Controller_Get_Output	1

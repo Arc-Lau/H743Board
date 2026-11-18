@@ -1,0 +1,10 @@
+../User_Architect/Src/user_ring_buffe.c:16:13:RingBuffer_AddReadIndex	1
+../User_Architect/Src/user_ring_buffe.c:26:16:RingBuffer_Read	1
+../User_Architect/Src/user_ring_buffe.c:35:17:RingBuffer_GetRemain	1
+../User_Architect/Src/user_ring_buffe.c:46:10:RingBuffer_GetLength	1
+../User_Architect/Src/user_ring_buffe.c:58:10:RingBuffer_Put	3
+../User_Architect/Src/user_ring_buffe.c:87:10:RingBuffer_GetWith_H_T	10
+../User_Architect/Src/user_ring_buffe.c:146:10:RingBuffer_GetWith_HT_Len	10
+../User_Architect/Src/user_ring_buffe.c:201:10:RingBuffer_GetWith_H_Len	7
+../User_Architect/Src/user_ring_buffe.c:245:10:RingBuffer_GetWith_Len	3
+../User_Architect/Src/user_ring_buffe.c:272:10:RingBuffer_GetWith_H_H	10

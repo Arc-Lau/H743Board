@@ -1,0 +1,7 @@
+../User_Architect/Src/user_codec.c:15:17:get_mask	3
+../User_Architect/Src/user_codec.c:31:6:Codec_Init	1
+../User_Architect/Src/user_codec.c:45:6:Codec_Decode_Skip	3
+../User_Architect/Src/user_codec.c:64:10:Codec_Decode_Unsigned	4
+../User_Architect/Src/user_codec.c:99:9:Codec_Decode_Signed	4
+../User_Architect/Src/user_codec.c:120:6:Codec_Encode_Unsigned	4
+../User_Architect/Src/user_codec.c:153:6:Codec_Encode_Signed	1

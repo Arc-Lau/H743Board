@@ -1,0 +1,5 @@
+../User_Architect/Src/user_systick.c:19:6:SysTick_InitTask	1
+../User_Architect/Src/user_systick.c:36:6:SysTick_StartTask	1
+../User_Architect/Src/user_systick.c:44:6:SysTick_StopTask	1
+../User_Architect/Src/user_systick.c:52:6:SysTick_ResetTask	1
+../User_Architect/Src/user_systick.c:61:6:SysTick_Handle	6
